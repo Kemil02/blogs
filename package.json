@@ -1,0 +1,19 @@
+{
+  "name": "blogs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kemil02/blogs.git"
+  },
+  "author": "Kemil02",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kemil02/blogs/issues"
+  },
+  "homepage": "https://github.com/Kemil02/blogs#readme"
+}
